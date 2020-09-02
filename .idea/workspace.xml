@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9c6fc87-3b1e-44c3-be02-2270aac73293" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/target/classes/Exclusion.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/GroupTask.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HelloWorld.bpmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HelloWorld.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/HelloWorld.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ParallelGateway.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ReceiveTask.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SequenceFlow.bpmn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SequenceFlow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SequenceFlow.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/designatedAgent.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/RunGroupTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/RunHistoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/RunProcessDef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/RunProcessInstance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="本地库" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="本地库" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="本地库" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="activiti: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="BpmnFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1glWmhOe45LBbDSWaQnfHRzwhlZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\activiti\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RunGroupTask.initTable">
+    <configuration name="RunGroupTask.initTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunGroupTask" />
+      <option name="METHOD_NAME" value="initTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunHistoryService.historyService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunHistoryService" />
+      <option name="METHOD_NAME" value="historyService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunProcessDef.createLastedVersion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunProcessDef" />
+      <option name="METHOD_NAME" value="createLastedVersion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunProcessDef.viewDiagram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RunProcessDef" />
+      <option name="METHOD_NAME" value="viewDiagram" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run.initTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activiti" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Run" />
+      <option name="METHOD_NAME" value="initTable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunGroupTask.initTable" />
+        <item itemvalue="JUnit.Run.initTable" />
+        <item itemvalue="JUnit.RunHistoryService.historyService" />
+        <item itemvalue="JUnit.RunProcessDef.createLastedVersion" />
+        <item itemvalue="JUnit.RunProcessDef.viewDiagram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c6fc87-3b1e-44c3-be02-2270aac73293" name="Default Changelist" comment="" />
+      <created>1598689819944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598689819944</updated>
+      <workItem from="1598689823024" duration="2957000" />
+      <workItem from="1598733969381" duration="1851000" />
+      <workItem from="1598832277325" duration="9432000" />
+      <workItem from="1598843421796" duration="460000" />
+      <workItem from="1598843915636" duration="671000" />
+      <workItem from="1598844607068" duration="5804000" />
+      <workItem from="1598853931652" duration="112000" />
+      <workItem from="1598854059149" duration="227000" />
+      <workItem from="1598854302700" duration="23000" />
+      <workItem from="1598854342154" duration="41000" />
+      <workItem from="1598854400032" duration="1004000" />
+      <workItem from="1598859792811" duration="4027000" />
+      <workItem from="1598877202523" duration="3770000" />
+      <workItem from="1598918576473" duration="3458000" />
+      <workItem from="1598924278771" duration="26533000" />
+      <workItem from="1598965413252" duration="3090000" />
+      <workItem from="1599005965698" duration="11155000" />
+      <workItem from="1599029719799" duration="22000" />
+      <workItem from="1599036241888" duration="117000" />
+      <workItem from="1599036583336" duration="2520000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1599041597820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599041597820</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/activiti/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598841385921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="169" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598841385921" />
+    <state x="721" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1598949137617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598949137617" />
+    <state x="627" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598854156411">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598854156411" />
+    <state x="372" y="40" key="CommitChangelistDialog2" timestamp="1599041779215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="372" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1599041779215" />
+    <state x="688" y="180" key="FileChooserDialogImpl" timestamp="1598924481820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="180" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598924481820" />
+    <state width="1867" height="293" key="GridCell.Tab.0.bottom" timestamp="1599029573602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599029573602" />
+    <state width="1867" height="293" key="GridCell.Tab.0.center" timestamp="1599029573602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="293" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599029573602" />
+    <state width="1867" height="293" key="GridCell.Tab.0.left" timestamp="1599029573602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="293" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599029573602" />
+    <state width="1867" height="293" key="GridCell.Tab.0.right" timestamp="1599029573602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="293" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599029573602" />
+    <state x="440" y="191" key="IDE.errors.dialog" timestamp="1599036613037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="191" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599036613037" />
+    <state x="330" y="0" key="SettingsEditor" timestamp="1599041478372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="330" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599041478372" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1599041522030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599041522030" />
+    <state x="838" y="440" key="com.timout.bpmn.property.inspector.editor.string.StringEditorDialog" timestamp="1598868080440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="838" y="440" key="com.timout.bpmn.property.inspector.editor.string.StringEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598868080439" />
+    <state x="559" y="335" width="890" height="370" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1598924531620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="559" y="335" width="890" height="370" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598924531620" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1598937321512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598937321512" />
+  </component>
+</project>
